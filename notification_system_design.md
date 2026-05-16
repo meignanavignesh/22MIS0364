@@ -21,4 +21,21 @@ This notification platform is designed for students to receive real-time updates
 # Base URL
 git init
 ```txt
-http://localhost:3000/api
+http://localhost:3000/apigit add .
+# Stage 2
+
+
+
+{
+  "_id": "",
+  "studentId": "",
+  "type": "",
+  "message": "",
+  "timestamp": ""
+}
+
+
+
+- Use indexing
+- Use pagination
+- Use sharding
